@@ -2,7 +2,7 @@
 
 This repository shows the projects and activities within my course elective of system administration at Technological Institute of the Philippines.
 
-**Skills that I have Aquired:**
+**Skills that I have aquired:**
 - Creating Virtual Machines (VirtualBox,VMware)
 - Setting up SSH Keys between Managed Node and Control Node
 - Automating tasks using Ansible (Playbooks, Roles, Inventory, Ansible Galaxy)
