@@ -2,10 +2,10 @@
 
 This repository shows the projects and activities within my course elective of system administration at Technological Institute of the Philippines. 
 
-The materials used in the projects are owned by Technological Institute of the Philippines and shall not repoduced.
+The activity templates used in the projects/activities are owned by Technological Institute of the Philippines and shall not repoduced.
 
-**Skills that I have aquired:**
-- Creating Virtual Machines (VirtualBox,VMware)
+**Skills aquired:**
+- Creating Virtual Machines (VirtualBox, VMware)
 - Setting up SSH Keys between Managed Node and Control Node
 - Automating tasks using Ansible (Playbooks, Roles, Inventory, Ansible Galaxy)
 - Understading the difference betweemn IaaS, PaaS, and SaaS 
